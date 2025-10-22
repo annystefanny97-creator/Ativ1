@@ -1,2 +1,2 @@
 # Ativ1
-Primeira atividade no
+Primeira atividade no github
